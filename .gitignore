@@ -1,0 +1,7 @@
+.idea/
+oferty/
+venv/
+build/
+dist/
+helper.py
+pracuj.pl-crawler.spec
